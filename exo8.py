@@ -1,5 +1,5 @@
-integer = 2
-float = 3.1
-resultat = integer + float
+i = 2
+f = 3.1
+resultat = i + f
 
 print(type(resultat))

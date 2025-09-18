@@ -17,4 +17,8 @@ void loop() {
       Serial.print("Temperature moyenne= ");
       Serial.print(moyenne);
       Serial.println(" °C");
+      
+      while(1) {
+        delay(1000);
+      }
 }
